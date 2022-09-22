@@ -12,7 +12,7 @@ def clickjacking_test(url):
                 print("Framing is allowed")
 
 if __name__ == "__main__":
-        host = input("Host url (eg. http://example.com): ")
+        host = input("Host url (eg. http://www.example.com): ")
         clickjacking_test(host)
 
         
