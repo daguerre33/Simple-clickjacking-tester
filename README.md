@@ -1,1 +1,1 @@
-Simple Clickjacking Tester in Python3 with urllib.request
+Simple Clickjacking Tester with Python3 urllib.request
